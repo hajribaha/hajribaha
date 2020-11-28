@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalifiabillal" alt="henchiriNassir" /> </p>
 
 
-- 💬 Ask me about **Android , IOS and Front end web dev**
+- 💬 Ask me about **Android , IOS **
 
 - 📫 How to reach me **hajribaha05@gmail.com**
 
