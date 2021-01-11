@@ -11,9 +11,6 @@
 - ⚡ Fun fact **I am a huge Mobile dev enthusiast**
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBfqNX4xa5KK0KGn49tTvXaLaW-YNyPlT39Q&usqp=CAU" alt="react" width="40" height="40"/>
-</svg> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajribaha&layout=compact&hide=html" alt="HajriBahaeddine" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hajribaha&show_icons=true" alt="HajriBahaeddine" /></p>
