@@ -16,7 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hajribaha&show_icons=true" alt="HajriBahaeddine" /></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/bahaeddine-hajri-2084bb1b1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Hajri Bahaeddine" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/bahaeddine-hajri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Hajri Bahaeddine" height="30" width="30" /></a>
 <a href="https://www.facebook.com/hajribaha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Hajri Baha" height="30" width="30" /></a>
 
 </p>
